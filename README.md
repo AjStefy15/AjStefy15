@@ -1,5 +1,5 @@
 <a style="display: block" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https:/github-readme-stats-sandy-theta.vercel.app/api?username=AjStefy15&count_private=true&show_icons=true&theme=holi&include_all_commits=true" alt="AjStefy15 GitHub stats" />
+  <img align="center" src="https://github-readme-stats-sandy-theta.vercel.app/api?username=AjStefy15&count_private=true&show_icons=true&theme=holi&include_all_commits=true" alt="AjStefy15 GitHub stats" />
 </a>
 <a style="display: block" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-sandy-theta.vercel.app/api/top-langs/?username=AjStefy15&theme=holi&layout=compact" alt="Top Langs" />

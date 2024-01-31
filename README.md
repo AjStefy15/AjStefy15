@@ -5,6 +5,7 @@
   <img align="center" src="https://github-readme-stats-sandy-theta.vercel.app/api/top-langs/?username=AjStefy15&theme=holi&layout=compact" alt="Top Langs" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AjStefy15&theme=catppuccin-macchiato&hide_border=true&locale=it&mode=weekly)](https://git.io/streak-stats)
 ---
 
 - 👋 Hi, I’m @AjStefy15                                                                                                                        
